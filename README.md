@@ -11,3 +11,5 @@ The project is not setup with any iOS provisioning, so you will need a valid iOS
 
 # The Meat And Potatoes
 The actual logic is in `Clipboard Cleaner/ContentView.swift` otherwise the entire rest of the repo is just boilerplate new swift iOS app code from Xcode 12.0 beta (12A6159)
+
+![iOS screenshot](https://jgcaruso.files.wordpress.com/2020/07/img_b784194f39f8-1.jpeg?w=200)
